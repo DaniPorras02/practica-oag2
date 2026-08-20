@@ -1,2 +1,5 @@
 esto es una prueba.
 Vamos a hacerlo fallar. - Dani - esto es una prueba de rebase
+
+-- Esto es un conflicto! -Josu
+-- Esto es una prueba de rebase!
