@@ -1,2 +1,2 @@
 esto es una prueba.
-Vamos a hacerlo fallar. -Brayan
+Vamos a hacerlo fallar. -Brayan -commit --amend --no-edit
